@@ -1,0 +1,1 @@
+ C:\\Users\\Manel\\OneDrive\ -\ ESPRIT\\Bureau\\InternshipEsprit_FrontendFlutter-Raed\\.dart_tool\\flutter_build\\7bae1d78361b8bcf206f5b1abf5c40ba\\native_assets.yaml: 
